@@ -1,0 +1,11 @@
+{
+  "name": "fin-rsr",
+  "version": "1.0.0",
+  "description": "Chrome extension to create link ORSR entry to finstat",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "tmatyo",
+  "license": "ISC"
+}

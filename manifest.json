@@ -1,0 +1,19 @@
+{
+  "manifest_version": 3,
+  "name": "Fin-RSR",
+  "description": "Creates a button on orsr.sk that shows the firm's page on finstat.sk. Vytvorí tlačítko na orsr.sk, ktoré otvorí firmu na finstat.sk.",
+  "version": "1.0",
+  "icons": {
+    "16": "img/frsr-icon-16.png",
+    "32": "img/frsr-icon-32.png",
+    "48": "img/frsr-icon-48.png",
+    "128": "img/frsr-icon-128.png"
+  },
+  "content_scripts": [
+    {
+      "matches": ["https://www.orsr.sk/vypis.asp?ID=*"],
+      "js": ["index.js"]
+    }
+  ],
+  "permissions": ["scripting", "activeTab"]
+}
