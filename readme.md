@@ -1,5 +1,6 @@
-# Fin-RSR chrome extension v1.0
+# Fin-RSR chrome extension v1.0 ![alt text](https://lh3.googleusercontent.com/LieHt2JnWumQpraoKEmgwOkwPz3GnhDes0e9nq_NJ3rNoyp7DzqTx41eTEZRpi43lGSvsmiTItTFhft_-kPWJh6mdw=s24 "Fin-RSR chrome extension v1.0 logo")
 
+## Screenshot
 ![alt text](https://lh3.googleusercontent.com/4q7bGJwUfyTTBUuOgNbQ3-ohrmSFLgtAxPQphAQdfTnrRRNdPLQuJCkaEzYYAnQWS0hQj9wypntpooh2BWerFajI=s800-w800-h500 "Fin-RSR chrome extension v1.0")
 
 ## What does it do?
